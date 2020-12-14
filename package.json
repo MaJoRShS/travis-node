@@ -1,0 +1,24 @@
+{
+  "name": "travis-node",
+  "version": "1.0.0",
+  "description": "Repo to make learn and trainnig how function CI/CD with github and travis-ci",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": 
+    "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaJoRShS/travis-node.git"
+  },
+  "author": "Lucas M Rodrigues <lukas.mr@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MaJoRShS/travis-node/issues"
+  },
+  "homepage": "https://github.com/MaJoRShS/travis-node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
